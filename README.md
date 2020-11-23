@@ -1,4 +1,13 @@
-### Hi there 👋
+![zitounoire Logo](imgs/zitounoire.png)
+
+# Hello, world!
+
+Yeah I know.
+
+I find "Hello, World!" too cheesy too.
+
+"I don't have a lot of creativity" is a valid enough argument, so we'll stick with that for now.
+
 
 <!--
 **zitounoire/zitounoire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
