@@ -2,6 +2,8 @@
 
 # Hello, world!
 
+![zitounoire's github stats](https://github-readme-stats.vercel.app/api?username=zitounoire&count_private=truetheme=dark)
+
 Yeah I know.
 
 I find "Hello, World!" too cheesy too.
