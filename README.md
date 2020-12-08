@@ -2,7 +2,7 @@
 
 # Hello, world!
 
-![zitounoire's github stats](https://github-readme-stats.vercel.app/api?username=zitounoire&count_private=truetheme=dark)
+![zitounoire's github stats](https://github-readme-stats.vercel.app/api?username=zitounoire&count_private=true&theme=dark)
 
 Yeah I know.
 
