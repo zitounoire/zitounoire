@@ -1,3 +1,8 @@
+# Hey
+
+
+<!--
+
 ![zitounoire Logo](imgs/zitounoire.png)
 
 # Hello, world!
@@ -11,7 +16,6 @@ I find "Hello, World!" too cheesy too.
 "I don't have a lot of creativity" is a valid enough argument, so we'll stick with that for now.
 
 
-<!--
 **zitounoire/zitounoire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
